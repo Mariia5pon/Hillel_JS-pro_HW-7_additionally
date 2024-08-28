@@ -129,7 +129,7 @@ main {
 
 
 .main-sec-1 {
-    background: url("../img/sec-1-1440.jpg") no-repeat center center / cover;
+    background: url("../img/sec-1.jpg") no-repeat center center / cover;
     height: 716px;
     max-width: 100%;
     margin-bottom: 200px;
@@ -145,36 +145,6 @@ main {
 
 .main-sec-1_text h4 {
     margin-bottom: 20px;
-}
-
-.input_type input {
-    position: absolute;
-    left: 20px;
-    top: 11px;
-    height: 30px;
-    width: 350px;
-    background-color: #F9FAFB;
-    color: var(--black);
-}
-
-.input_type button {
-    position: absolute;
-    right: 6px;
-    top: 11px;
-    background-color: var(--black);
-    width: 63px;
-    height: 30px;
-    border-radius: 11px;
-}
-
-.input_type form {
-    position: relative;
-    width: 458px;
-    height: 52px;
-    margin: 10px auto;
-    border-radius: 12px;
-    border: 1px solid #E5E7EB;
-    background: #F9FAFB;
 }
 
 .main-sec-2 {
@@ -200,18 +170,6 @@ main {
 
 .sec-2_left label, input {
     margin: 10px 0;
-}
-
-input {
-    height: 30px;
-    width: 350px;
-    background-color: #F9FAFB;
-    color: var(--black);
-    padding-left: 5px;
-}
-
-input:hover {
-    border: blueviolet solid 5px;
 }
 
 .main-sec-3 {
