@@ -167,11 +167,14 @@ main {
     display: flex;
     align-items: stretch;
     gap: 57px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
-.sec-2_left label, input {
-    margin: 10px 0;
+.sec-2_left .btn {
+    margin-top: 20px;
+}
+.sec-2_flex ol {
+    list-style-type: lower-alpha
 }
 
 .main-sec-3 {
